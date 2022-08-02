@@ -1,0 +1,3 @@
+java home 
+devops
+and aws praticals
